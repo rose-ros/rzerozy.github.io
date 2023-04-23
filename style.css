@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "PTserif", serif;
+    src: url(https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap);
+}
+
+html {
+
+}
+
+header h1 {
+    font-family: "PTserif";
+    font-size: 40px;
+    font-weight: 500;
+    line-height: .5;
+    letter-spacing: .2rem;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    line-height: 2;
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav a {
+    font-family: "PTserif";
+    letter-spacing: .05rem;
+    text-transform: lowercase;
+    display: flex;
+}
+
+h2 {
+    font-family: "PTserif";
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-family: "PTserif";
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+}
