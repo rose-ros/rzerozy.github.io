@@ -1,2 +1,2 @@
 # rzerozy.github.io
-This repository follows my progress as a Jr. Web Developer starting with HTML, CSS, and JavaScript.
+This is an open-ended personal portfolio project that follows my progress as a Jr. Web Developer using HTML, CSS, and JavaScript.
